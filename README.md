@@ -28,3 +28,7 @@ Senaryo Adımları:
 
 * Kullanıcı giriş ekranının geldiği kontrol edilir	
 	
+
+
+https://user-images.githubusercontent.com/115174398/207060152-68918c1e-ae93-483b-99e2-bb245618a08f.mov
+
